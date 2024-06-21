@@ -6,3 +6,4 @@
 
 ![owaish3301's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaish3301&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
  
+![owaish3301's codeWars Profile](https://www.codewars.com/users/ShadowKiD14/badges/small)
