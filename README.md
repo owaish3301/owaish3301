@@ -1,9 +1,4 @@
 ### Hi, I am Owaish 👋   ![owaish3301's codeWars Profile](https://www.codewars.com/users/ShadowKiD14/badges/small)
 
 
-![owaish3301's Stats](https://github-readme-stats.vercel.app/api?username=owaish3301&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
-
-![owaish3301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=owaish3301&theme=nightowl&hide_border=false) 
-
-![owaish3301's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaish3301&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
- 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaish3301?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
